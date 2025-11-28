@@ -13,4 +13,6 @@ main:
   - name: Past Projects
     url: projects_archive/
     weight: 30
-
+  - name: Pets
+    url: pets/
+    weight: 30
