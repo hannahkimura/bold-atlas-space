@@ -1,5 +1,5 @@
 ---
-title: 'Current Projects'
+title: 'Past Projects'
 date: 2024-05-19
 type: landing
 
@@ -11,10 +11,10 @@ design:
 sections:
   - block: collection
     content:
-      title: Current Projects
+      title: Past Projects
       filters:
         folders:
-          - projects
+          - projects_archive
     design:
       view: article-grid
       fill_image: false

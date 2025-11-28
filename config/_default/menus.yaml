@@ -7,7 +7,10 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Projects
+  - name: Current Projects
     url: projects/
+    weight: 30
+  - name: Past Projects
+    url: projects_archive/
     weight: 30
 
