@@ -8,7 +8,7 @@ toc: false
 ---
 
 ##### Chulo
-Chulo was a stray cat who followed me home when I was walking Teddy in the summer of 2022, and he has been mine ever since. He is the goofiest cat I know. And he LOVES all humans and animals.
+Chulo was a stray cat who followed me home when I was walking Teddy in the summer of 2022, and he has been mine ever since. He is the goofiest cat I know. He LOVES all humans and animals.
 
 Fun fact: Chulo prefers to lay belly up.
 ![](chulo.png)
@@ -30,7 +30,7 @@ Luna is the athletic cat in our household. She loves climbing, laying on my comp
 ---
 
 ##### Teddy 
-Teddy was my first pet, and he showed me how awesome animals really are. He is the best dog I could ever ask for. He loves hiking, learning new tricks for treats, and watching horses on TV.      
+Teddy was my first pet, and he showed me how awesome animals really are. He is the best dog I could ever ask for. He loves hiking, learning new tricks, and watching horses on TV.      
 
 ![](teddy.png)
 ![](teddy2.png)
@@ -39,4 +39,7 @@ Teddy was my first pet, and he showed me how awesome animals really are. He is t
 ---
 
 ##### Fosters
-![Current: Morgana](morgana.png) 
+Current foster: Morgana
+Morgana is the sweetest cat I've met. She purrs everytime we pet her, and she LOVES food.
+
+![Morgana](morgana.png) 
