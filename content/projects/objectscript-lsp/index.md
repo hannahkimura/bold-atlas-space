@@ -1,5 +1,6 @@
 ---
 title: objectscript-lsp
+share: false
 links:
   - type: site
     url: https://github.com/hkimura-intersys/objectscript-lsp

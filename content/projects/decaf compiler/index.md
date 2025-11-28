@@ -3,6 +3,7 @@ title: Decaf Compiler
 links:
   - type: site
     url: compiler.pdf
+share: false
 tags:
   - compiler
   - decaf

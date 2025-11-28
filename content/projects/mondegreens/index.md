@@ -1,5 +1,6 @@
 ---
 title: mondegreens
+share: false
 links:
   - type: site
     url: https://escholarship.org/uc/item/3mf978x8

@@ -1,5 +1,6 @@
 ---
 title: tree-sitter-objectscript
+share: false
 links:
   - type: site
     url: https://github.com/intersystems/tree-sitter-objectscript
