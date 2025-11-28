@@ -27,9 +27,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'hannahkimura@gmail.com'
-    label: E-mail Me
   - icon: brands/github
     url: https://github.com/hkimura-intersys
   - icon: brands/linkedin
@@ -39,6 +36,7 @@ interests:
   - Programming Languages
   - Systems Programming
   - Rust
+  - Cloud Infrastructure
 
 work:
   - position: Systems Developer
@@ -65,4 +63,4 @@ work:
 
 ---
 
-I am a Systems Developer on the Advanced Research Projects team at InterSystems. My work is often at the intersection of systems design, AI, and programming languages. My current projects include [tree-sitter-objectscript](https://github.com/hkimura-intersys/tree-sitter-objectscript) and [objectscript-lsp](https://github.com/hkimura-intersys/objectscript-lsp).
+I am a Systems Developer on the Advanced Research Projects team at InterSystems. My work is at the intersection of systems design, AI, and programming languages. I studied CS at Wellesley College and MIT, where I am still doing research with [TedLab](https://tedlab.mit.edu) to model real-life phenomenon using information-theoretic principles. 
