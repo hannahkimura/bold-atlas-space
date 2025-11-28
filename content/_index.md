@@ -31,12 +31,11 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: 'Recent Projects'
+      title: 'Open Source Contributions'
       subtitle: ''
       text: |-
-       - [tree-sitter-objectscript](https://github.com/hkimura-intersys/tree-sitter-objectscript). 
+       - [tree-sitter-objectscript](https://github.com/intersystems/tree-sitter-objectscript). 
        - [objectscript-lsp](https://github.com/hkimura-intersys/objectscript-lsp). 
-       - mondegreens: [git repo](https://github.com/mpoliak/studies_aux), [conference paper](https://escholarship.org/uc/item/3mf978x8). 
     design:
       columns: '1'
 ---  

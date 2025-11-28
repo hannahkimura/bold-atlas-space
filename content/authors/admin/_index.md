@@ -63,4 +63,4 @@ work:
 
 ---
 
-I am a Systems Developer on the Advanced Research Projects team at InterSystems. My work is at the intersection of systems design, AI, and programming languages. I studied CS at Wellesley College and MIT, where I am still doing research with [TedLab](https://tedlab.mit.edu) to model real-life phenomenon using information-theoretic principles. 
+I am a Systems Developer on the Advanced Research Projects team at [InterSystems](https://www.intersystems.com). My work is at the intersection of systems design, AI, and programming languages. I studied CS at Wellesley College and MIT, where I am still doing research with [TedLab](https://tedlab.mit.edu) to model real-life phenomenon using information-theoretic principles. 
