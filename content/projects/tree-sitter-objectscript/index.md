@@ -16,4 +16,3 @@ The grammar currently integrates with these editors:
 - [Neovim](https://neovim.io)
 - [Emacs](https://github.com/intersystems/emacs-objectscript-ts-mode)
 
-<!--more-->

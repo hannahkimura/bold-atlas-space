@@ -16,4 +16,3 @@ materials. In the current experiment, we test the predictions of
 Noisy Channel Processing in a naturalistic task: identifying
 the lyrics of a song. 
 
-<!--more-->
