@@ -8,6 +8,10 @@ appearance:
   mode: system
   color: indigo
 
+branding:
+  logo: 'teddy.jpeg'   # Logo used in navbar (optional)
+  icon:  'teddy.jpeg'
+
 # SEO
 marketing:
   seo:
